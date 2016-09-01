@@ -1,0 +1,86 @@
+matlab学习笔记
+MSDN程序DIY
+VC++学习资料
+                  Visual C++范例大全
+                  吕鑫：VC++就业培训宝典之MFC视频教程
+四大名著终极收藏版
+                  三国演义.The.Romance.of.three.kingdoms.1994.中国.XTM.DVD-HALFCD
+                  水浒传.The.Story.by.the.Water.Margin.1996.中国.XTM.DVD-HALFCD
+                  红楼梦.Hong.Lou.Meng.1987.中国.DVD-HALFCD
+                  西游记.Pilgrimage.to.the.West.1986.中国.DVD-HALFCD
+图像处理与机器视觉
+                  Matlab图像处理程序
+                  OpenCV学习笔记
+                  VideoMFC
+                  图像处理视频教程
+                  学习视频录制
+我的资源
+数码管识别
+                  10.17
+                  DetectRegions
+                  ErrorPicture
+                  RectangleDetection14.2.23.1104
+                  公司资料
+                  数码管数字识别样本
+                  数码管检测
+                  数码管检测程序
+                  车牌识别
+                  车牌识别算法
+来自：GT-I8160
+                  DCIM(1)
+                  DCIM
+魔方机器人
+                  7.29之前
+                  8.3
+                  Rubik_Robot（14.3.3.2100）
+                  Rubik_Robot（14.7.16.1750）
+                  Rubik_Robot（14.7.4.2018）
+                  Rubik_Robot（14.8.1.2237）
+                  Rubik_Robot（14.8.2.0839）
+                  Rubik_Robot（14.8.8.1554）
+                  Visual C++范例大全
+                  吕鑫：VC++就业培训宝典之MFC视频教程
+图
+                  Matlab图像处理程序
+                  OpenCV学习笔记
+                  VideoMFC
+                  学习视频录制
+头发变化
+                  10.17
+                  DetectRegions
+                  DIY
+                  ErrorPicture
+                  RectangleDetection14.2.23.1104
+                  公司资料
+                  数码管数字识别样本
+                  数码管检测
+                  数码管检测程序
+                  数码管识别资料
+                  调试图片
+                  车牌识别
+                  车牌识别算法
+                  DCIM(1)
+                  DCIM
+                  7.29之前
+                  7.31
+                  8.3
+                  PA口模拟PWM，需要优化
+                  Rubik_Robot（14.3.3.2100）
+                  Rubik_Robot（14.7.16.1750）
+                  Rubik_Robot（14.7.4.2018）
+                  Rubik_Robot（14.8.1.2237）
+                  Rubik_Robot（14.8.8.1554）
+                  Visual C++范例大全
+                  吕鑫：VC++就业培训宝典之MFC视频教程
+                  OpenCV学习笔记
+                  VideoMFC
+天狼星
+                  屏幕录像专家 共享版 V2012
+娱乐
+                  10.17
+                  DetectRegions
+                  DIY
+                  ErrorPicture
+                  公司资料
+                  数码管数字识别样本
+                  数码管检测
